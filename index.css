@@ -1,0 +1,23 @@
+body{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+    margin:0;
+
+}
+
+.header{
+    text-align: center;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color:black;
+    margin: 20px auto;
+}
+
+.buttons{
+    color:white;
+}
